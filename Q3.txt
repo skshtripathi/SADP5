@@ -1,0 +1,15 @@
+Q3.List the main services that must be provided by the TPO S/W:
+A3.The main activities offered by the TPO S/W Should be:
+1.Make the schedule for the various companies
+The s/w should generate a schedule for the company placement procedure to be carried out so that there is no clash 
+in the arrival of any two companies. We will feed the available dates for each company and the amount of time they need and 
+a schedule will successfully be generated based on priority.
+
+2. Maintain database of students with status of placement.
+A database should be maintained for all students with their current placement status so that for any formality they can be quickly contacted 
+by the TPO.
+
+3. Maintain company databases and and call them.
+The list of companies that are willing to come or can be approached must be maintained so 
+that contacting them becomes easy and their requirements can be taken along with their 
+preferred dates for arrival on campus.
